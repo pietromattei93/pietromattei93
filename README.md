@@ -1,16 +1,14 @@
-### Hi there 👋
+Hej, I’m Pietro Mattei
+I match top tech talent with exciting career opportunities.
 
-<!--
-**pietromattei93/pietromattei93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a professional with years of experience in full-cycle recruitment, sourcing, stakeholder management, and employer branding, I have a strong track record of helping companies build diverse and talented teams 🧑🏻‍💻.
 
-Here are some ideas to get you started:
+In my free time, I enjoy exploring new places 🌍, staying active through workouts 🏋️, and relaxing with a good cup of coffee ☕️ and some video games 🎮. I’m a social person who values connecting with others and sharing ideas 🤝.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Don’t hesitate to reach out and say hello 👋!
+
+🌐 Socials:
+LinkedIn Medium
+
+💻 Tech Stack:
+HTML5 CSS3 JavaScript Netlify React Adobe After Effects Adobe Illustrator Adobe InDesign Adobe Photoshop Adobe Premiere Pro
